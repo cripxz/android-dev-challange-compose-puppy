@@ -9,5 +9,27 @@
       or implied. See the License for the specific language governing permissions and limitations under
       the License.
       -->
-    <string name="app_name">AndroidDevChallenge</string>
+    <string name="app_name">Catadopt</string>
+    <string name="greetings">Hello, My name is %1s</string>
+    <string name="name">Name</string>
+    <string name="info">Info</string>
+    <string name="age">Age</string>
+    <string name="gender">Gender</string>
+    <string name="gender_male">male</string>
+    <string name="gender_female">female</string>
+    <string name="breed">Breed</string>
+    <string name="weight">Weight</string>
+    <string name="date_of_birth">Date of birth</string>
+    <string name="waiting_for_adaption_since">Waiting for adaption since</string>
+    <string name="favorite_food">Favorite food</string>
+    <string name="info_text_intro">This App was created for the #AndroidDevChallenge for Jetpack Compose: Week #1 - Puppy adoption app.</string>
+    <string name="info_text_sources">Data for this App was fetched from the following sources:</string>
+    <string name="info_text_source_images">Images:</string>
+    <string name="info_text_source_images_url">https://placekitten.com/</string>
+    <string name="info_text_source_cat_breeds">List of breeds:</string>
+    <string name="info_text_source_cat_breeds_url">https://dogs-cats.fandom.com/wiki/List_of_Cat_Breeds</string>
+    <string name="info_text_source_cat_names">Most common cat names:</string>
+    <string name="info_text_source_cat_names_url">https://www.rover.com/blog/best-cat-names/</string>
+    <string name="info_text_other_libraries">Additional libraries used:</string>
+    <string name="info_text_other_libraries_coil">Coil for compose by Chris Banes: \nhttps://chrisbanes.github.io/accompanist/coil/</string>
 </resources>
